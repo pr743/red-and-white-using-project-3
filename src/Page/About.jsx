@@ -43,6 +43,14 @@ function About() {
           Insert Employee Details
         </h1>
 
+         <div className="flex justify-between mt-6">
+          <button
+            type="submit"
+            className="bg-purple-700 text-white px-5 py-2 rounded-xl hover:bg-purple-800 transition shadow-md"
+          >
+            Insert
+          </button>
+
         {[
           "employeeId",
           "fullName",
@@ -64,13 +72,13 @@ function About() {
           </div>
         ))}
 
-        <div className="flex justify-between mt-6">
+        {/* <div className="flex justify-between mt-6">
           <button
             type="submit"
             className="bg-purple-700 text-white px-5 py-2 rounded-xl hover:bg-purple-800 transition shadow-md"
           >
             Insert
-          </button>
+          </button> */}
 
           <button
             type="button"
