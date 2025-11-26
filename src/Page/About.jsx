@@ -42,15 +42,6 @@ function About() {
         <h1 className="text-4xl font-bold text-center mb-6 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
           Insert Employee Details
         </h1>
-
-         <div className="flex justify-between mt-6">
-          <button
-            type="submit"
-            className="bg-purple-700 text-white px-5 py-2 rounded-xl hover:bg-purple-800 transition shadow-md"
-          >
-            Insert
-          </button>
-
         {[
           "employeeId",
           "fullName",
@@ -61,7 +52,6 @@ function About() {
         ].map((field) => (
           <div key={field} className="mb-4">
             <label className="block font-semibold capitalize">{field}</label>
-
             <input
               name={field}
               onChange={handleChange}
@@ -72,14 +62,13 @@ function About() {
           </div>
         ))}
 
-        {/* <div className="flex justify-between mt-6">
+         <div className="flex justify-between mt-6">
           <button
             type="submit"
             className="bg-purple-700 text-white px-5 py-2 rounded-xl hover:bg-purple-800 transition shadow-md"
           >
             Insert
-          </button> */}
-
+          </button>
           <button
             type="button"
             onClick={() => navigate("/home")}

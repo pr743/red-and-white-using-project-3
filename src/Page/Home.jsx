@@ -35,6 +35,15 @@ function Home() {
             Employee Details
           </h1>
 
+           <div className=" mb-4 mt-5 text-center">
+             <button
+                      onClick={() => navigate("/add")}
+                      className="bg-green-600 text-white px-3 py-1  rounded-lg shadow hover:bg-green-700 transition"
+                    >
+                      Add NEW employees
+            </button>
+           </div>
+
           <table className="w-full border-collapse overflow-hidden rounded-2xl shadow-xl">
             <thead className="bg-gradient-to-r from-purple-500 to-blue-500 text-white animate-headerGradient">
               <tr>
@@ -63,12 +72,6 @@ function Home() {
                   <td className="px-3 py-3">{u.department}</td>
 
                   <td className="flex gap-2 px-4 py-3">
-                    <button
-                      onClick={() => navigate("/add")}
-                      className="bg-green-600 text-white px-3 py-1  rounded-lg shadow hover:bg-green-700 transition"
-                    >
-                      Add
-                    </button>
 
                     <button
                       onClick={() => navigate(`/sever/${u.id}`)}
