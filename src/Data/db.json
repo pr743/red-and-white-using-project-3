@@ -1,139 +1,909 @@
 {
   "employees": [
-    {
-      "id": "1",
-      "employeeId": "EMP001",
-      "fullName": "Meet Kumar",
-      "email": "raj.kumar@example.com",
-      "phone": "9876543210",
-      "address": "Surat",
-      "department": "IT"
+    { 
+      "id": "1", 
+      "employeeId": "EMP001", 
+      "fullName": "Meet Kumar", 
+      "email": "meet.kumar@example.com", 
+      "phone": "9876543210", 
+      "address": "Surat", 
+      "department": "IT" 
     },
-    {
-      "id": "2",
-      "employeeId": "EMP002",
-      "fullName": "Priya Sharma",
-      "email": "priya.sharma@example.com",
-      "phone": "9876001122",
-      "address": "Ahmedabad",
-      "department": "HR"
+    { 
+      "id": "2", 
+      "employeeId": "EMP002", 
+      "fullName": "Priya Sharma", 
+      "email": "priya.sharma@example.com", 
+      "phone": "9876001122", 
+      "address": "Ahmedabad", 
+      "department": "HR" 
     },
-    {
-      "id": "3",
-      "employeeId": "EMP003",
-      "fullName": "Rohan Patel",
-      "email": "rohan.patel@example.com",
-      "phone": "9900123456",
-      "address": "Vadodara",
-      "department": "Finance"
+    { 
+      "id": "3", 
+      "employeeId": "EMP003", 
+      "fullName": "Rohan Patel", 
+      "email": "rohan.patel@example.com", 
+      "phone": "9900123456", 
+      "address": "Vadodara", 
+      "department": "Finance" 
     },
-    {
-      "id": "4",
-      "employeeId": "EMP004",
-      "fullName": "Meena Kaur",
-      "email": "meena.kaur@example.com",
-      "phone": "9988776655",
-      "address": "Rajkot",
-      "department": "Sales"
+    { "id": "4",
+     "employeeId": "EMP004", 
+     "fullName": "Meena Kaur", 
+     "email": "meena.kaur@example.com", 
+     "phone": "9988776655", 
+     "address": "Rajkot", 
+     "department": "Sales" 
     },
-    {
-      "id": "5",
-      "employeeId": "EMP005",
-      "fullName": "Harsh Mehta",
-      "email": "harsh.mehta@example.com",
-      "phone": "9898123456",
-      "address": "Surat",
-      "department": "IT"
+    { 
+    "id": "5",
+     "employeeId": "EMP005", 
+     "fullName": "Harsh Mehta", 
+     "email": "harsh.mehta@example.com", 
+     "phone": "9898123456", 
+     "address": "Surat", 
+     "department": "IT" 
     },
-    {
-      "id": "6",
-      "employeeId": "EMP006",
-      "fullName": "Sneha Gupta",
-      "email": "sneha.gupta@example.com",
-      "phone": "9123456701",
-      "address": "Mumbai",
-      "department": "Marketing"
+
+
+    { 
+      "id": "6", 
+      "employeeId": "EMP006", 
+      "fullName": "Sneha Gupta", 
+      "email": "sneha.gupta@example.com", 
+      "phone": "9123456701", 
+      "address": "Mumbai", 
+      "department": "Marketing" 
     },
-    {
-      "id": "7",
-      "employeeId": "EMP007",
-      "fullName": "Arjun Singh",
-      "email": "arjun.singh@example.com",
-      "phone": "9345678123",
-      "address": "Delhi",
-      "department": "Operations"
+    { 
+      "id": "7", 
+      "employeeId": "EMP007", 
+      "fullName": "Arjun Singh", 
+      "email": "arjun.singh@example.com", 
+      "phone": "9345678123", 
+      "address": "Delhi", 
+      "department": "Operations" 
     },
-    {
-      "id": "8",
-      "employeeId": "EMP008",
-      "fullName": "Neha Verma",
-      "email": "neha.verma@example.com",
-      "phone": "9786543210",
-      "address": "Jaipur",
-      "department": "Support"
+    { 
+      "id": "8", 
+     "employeeId": "EMP008", 
+    "fullName": "Neha Verma", 
+    "email": "neha.verma@example.com", 
+     "phone": "9786543210", 
+     "address": "Jaipur", 
+     "department": "Support" 
     },
-    {
-      "id": "9",
-      "employeeId": "EMP009",
-      "fullName": "Karan Thakur",
-      "email": "karan.thakur@example.com",
-      "phone": "9988771122",
-      "address": "Chandigarh",
-      "department": "Security"
-    },
-    {
+    { 
+      "id": "9", 
+    "employeeId": "EMP009", 
+    "fullName": "Karan Thakur", 
+    "email": "karan.thakur@example.com", 
+    "phone": "9988771122", 
+    "address": "Chandigarh", 
+    "department": "Security" 
+  },
+    { 
       "id": "10",
-      "employeeId": "EMP010",
-      "fullName": "Divya Joshi",
-      "email": "divya.joshi@example.com",
-      "phone": "9787561234",
-      "address": "Pune",
-      "department": "IT"
+     "employeeId": "EMP010",
+      "fullName": "Divya Joshi", 
+      "email": "divya.joshi@example.com", 
+      "phone": "9787561234", 
+      "address": "Pune", 
+      "department": "IT" 
     },
-    {
-      "id": "11",
-      "employeeId": "EMP011",
-      "fullName": "Prince Mungra",
-      "email": "princemungra1340@gmail.com",
-      "phone": "7687456791",
-      "address": "Rajkot",
-      "department": "IT"
+
+    { 
+      "id": "11", 
+    "employeeId": "EMP011", 
+    "fullName": "Prince Mungra", 
+    "email": "princemungra1340@gmail.com", 
+    "phone": "7687456791", 
+    "address": "Rajkot", 
+    "department": "IT" 
+  },
+    { 
+      "id": "12", 
+      "employeeId": "EMP012", 
+      "fullName": "Raj Patel", 
+      "email": "raj@gmail.com", 
+      "phone": "7687456792", 
+      "address": "Rajkot", 
+      "department": "IT" 
     },
-    {
-      "id": "12",
-      "employeeId": "EMP012",
-      "fullName": "Raj Patel",
-      "email": "raj@gmail.com",
-      "phone": "7687456791",
-      "address": "Rajkot",
-      "department": "IT"
+    { 
+      "id": "13", 
+      "employeeId": "EMP013", 
+      "fullName": "Aarav Shah", 
+      "email": "aarav.shah@example.com", 
+      "phone": "7896541230", 
+      "address": "Surat", 
+      "department": "Design" 
     },
-    {
-      "id": "13",
-      "employeeId": "EMP013",
-      "fullName": "Aarav Shah",
-      "email": "aarav.shah@example.com",
-      "phone": "7896541230",
-      "address": "Surat",
-      "department": "Design"
+    { 
+      "id": "14", 
+      "employeeId": "EMP014", 
+      "fullName": "Simran Joshi", 
+      "email": "simran.joshi@example.com", 
+      "phone": "9012345678", 
+      "address": "Mumbai", 
+      "department": "Admin" 
     },
-    {
-      "id": "14",
-      "employeeId": "EMP014",
-      "fullName": "Simran Joshi",
-      "email": "simran.joshi@example.com",
-      "phone": "9012345678",
-      "address": "Mumbai",
-      "department": "Admin"
+    { 
+      "id": "15", 
+      "employeeId": "EMP015", 
+      "fullName": "Vivek Yadav", 
+      "email": "vivek.yadav@example.com", 
+      "phone": "9871234560", 
+      "address": "Delhi", 
+      "department": "Logistics" 
     },
+
+    { 
+    "id": "16", 
+    "employeeId": "EMP016", 
+    "fullName": "Ankit Verma", 
+    "email": "ankit.verma@example.com", 
+    "phone": "9823456712", 
+    "address": "Indore", 
+    "department": "IT" 
+  },
+    { 
+      "id": "17",  
+       "employeeId": "EMP017",  
+        "fullName": "Pooja Nair",     
+        "email": "pooja.nair@example.com", 
+        "phone": "9812345678", 
+        "address": "Kochi", 
+        "department": "HR" 
+      },
+    { 
+      "id": "18",  
+       "employeeId": "EMP018",  
+        "fullName": "Sahil Khan",     
+        "email": "sahil.khan@example.com", 
+        "phone": "9823456789", 
+        "address": "Bhopal", 
+        "department": "Marketing" 
+      },
+    { 
+      "id": "19",  
+       "employeeId": "EMP019",  
+        "fullName": "Nisha Reddy",     
+        "email": "nisha.reddy@example.com", 
+        "phone": "9898765432", 
+        "address": "Hyderabad", 
+        "department": "Finance" 
+      },
+    { 
+      "id": "20",  
+       "employeeId": "EMP020",  
+        "fullName": "Amit Joshi",     
+        "email": "amit.joshi@example.com", 
+        "phone": "9966123456", 
+        "address": "Udaipur", 
+        "department": "Sales" 
+      },
+    { 
+      "id": "21",  
+      "employeeId": "EMP021",  
+      "fullName": "Ritu Malhotra", 
+        "email": "ritu.malhotra@example.com", 
+        "phone": "9123098765", 
+        "address": "Ludhiana", 
+        "department": "Admin" 
+      },
+    { 
+      
+        "id": "22",  
+       "employeeId": "EMP022",  
+        "fullName": "Deepak Soni",     
+        "email": "deepak.soni@example.com", 
+        "phone": "9001234567", 
+        "address": "Ajmer", 
+        "department": "Support" 
+      },
+    { 
+        "id": "23",  
+       "employeeId": "EMP023",  
+        "fullName": "Kajal Mehta",     
+        "email": "kajal.mehta@example.com", 
+        "phone": "9873214560", 
+        "address": "Bhavnagar", 
+        "department": "Design" 
+      },
+    { 
+        "id": "24",  
+       "employeeId": "EMP024",  
+        "fullName": "Mohit Choudhary", 
+        "email": "mohit.choudhary@example.com", 
+        "phone": "9765432189", 
+        "address": "Noida", 
+        "department": "Operations" 
+      },
+    { 
+      "id": "25",  
+       "employeeId": "EMP025",  
+        "fullName": "Shalini Gupta", 
+        "email": "shalini.gupta@example.com", 
+        "phone": "9988123450", 
+        "address": "Kanpur", 
+        "department": "Security"
+       },
+    { 
+      "id": "26",  
+       "employeeId": "EMP026",  
+        "fullName": "Rahul Jain",     
+        "email": "rahul.jain@example.com", 
+        "phone": "9876541201", 
+        "address": "Ujjain", 
+        "department": "IT" 
+      },
+    { 
+        "id": "27",  
+       "employeeId": "EMP027",  
+        "fullName": "Neel Patel",     
+        "email": "neel.patel@example.com", 
+        "phone": "9876541202", 
+        "address": "Surendranagar", 
+        "department": "Finance" 
+      },
+    { 
+      "id": "28",  
+       "employeeId": "EMP028",  
+        "fullName": "Kriti Saxena" , 
+        "email": "kriti.saxena@example.com", 
+        "phone": "9876541203", 
+        "address": "Gwalior", 
+        "department": "HR" 
+      },
+    { 
+        "id": "29",  
+       "employeeId": "EMP029",  
+        "fullName": "Jay Shah", 
+        "email": "jay.shah@example.com", 
+        "phone": "9876541204", 
+        "address": "Ahmedabad", 
+        "department": "IT" 
+      },
+    { 
+         "id": "30",
+        "employeeId": "EMP030",  
+        "fullName": "Isha Mehta",     
+        "email": "isha.mehta@example.com", 
+        "phone": "9876541205", 
+        "address": "Surat", 
+        "department": "Design" 
+      },
+    { 
+        "id": "31",  
+       "employeeId": "EMP031",  
+        "fullName": "Manish Verma"    , 
+        "email": "manish.verma@example.com", 
+        "phone": "9876541206", 
+        "address": "Bangalore", 
+        "department": "Operations" 
+      },
+    { 
+        "id": "32",  
+       "employeeId": "EMP032",  
+        "fullName": "Riya Kapoor",     
+        "email": "riya.kapoor@example.com", 
+        "phone": "9876541207", 
+        "address": "Delhi", 
+        "department": "HR" 
+      },
+    { 
+        "id": "33",  
+        "employeeId": "EMP033",  
+        "fullName": "Nikhil Arora" , 
+        "email": "nikhil.arora@example.com", 
+        "phone": "9876541208", 
+        "address": "Gurgaon", 
+        "department": "IT" 
+      },
+    { 
+       "id": "34",  
+        "employeeId": "EMP034",  
+       "fullName": "Sonali Mishra", 
+        "email": "sonali.mishra@example.com", 
+        "phone": "9876541209", 
+        "address": "Prayagraj", 
+        "department": "Admin" 
+      },
+    { 
+      "id": "35",  
+       "employeeId": "EMP035",  
+      "fullName": "Kunal Desai",     
+      "email": "kunal.desai@example.com", 
+      "phone": "9876541210", 
+      "address": "Navsari", 
+      "department": "Sales" 
+    },
+    { 
+      "id": "36",  
+       "employeeId": "EMP036",  
+        "fullName": "Alok Pandey",     
+        "email": "alok.pandey@example.com", 
+        "phone": "9876541211", 
+        "address": "Patna", 
+        "department": "Support" 
+      },
+    { 
+       "id": "37",  
+       "employeeId": "EMP037",  
+        "fullName": "Rashmi Kulkarni", 
+        "email": "rashmi.k@example.com", 
+        "phone": "9876541212", 
+        "address": "Nagpur", 
+        "department": "Finance" 
+      },
+    { 
+        "id": "38",  
+       "employeeId": "EMP038",  
+        "fullName": "Varun Khanna", 
+        "email": "varun.khanna@example.com", 
+        "phone": "9876541213", 
+        "address": "Amritsar", 
+        "department": "Security" 
+      },
+    { 
+        "id": "39",  
+       "employeeId": "EMP039",  
+        "fullName": "Tanvi Joshi",     
+        "email": "tanvi.j@example.com", 
+        "phone": "9876541214", 
+        "address": "Nashik", 
+        "department": "IT" 
+      },
+    { 
+        "id": "40",  
+       "employeeId": "EMP040",  
+        "fullName": "Suresh Iyer",     
+        "email": "suresh.iyer@example.com", 
+        "phone": "9876541215", 
+        "address": "Chennai", 
+        "department": "Operations" 
+      },
+    { 
+      "id": "41",  
+       "employeeId": "EMP041",  
+        "fullName": "Bhavya Jain",     
+        "email": "bhavya.j@example.com", 
+        "phone": "9876541216", 
+        "address": "Kota", 
+        "department": "HR" 
+  },
+    { 
+      
+        "id": "42",  
+       "employeeId": "EMP042",  
+        "fullName": "Aditya Rao",     
+        "email": "aditya.rao@example.com", 
+        "phone": "9876541217", 
+        "address": "Mysore", 
+        "department": "IT" 
+      },
+    { 
+      "id": "43",  
+       "employeeId": "EMP043",  
+        "fullName": "Sonal Trivedi", 
+        "email": "sonal.t@example.com", 
+        "phone": "9876541218", 
+        "address": "Anand", 
+        "department": "Design" 
+      },
+    { 
+      "id": "44",  
+       "employeeId": "EMP044",  
+        "fullName": "Yash Malviya"  , 
+        "email": "yash.m@example.com", 
+        "phone": "9876541219", 
+        "address": "Dewas", 
+        "department": "Marketing" 
+      },
+    { 
+      "id": "45",  
+       "employeeId": "EMP045",  
+        "fullName": "Reena Das",    
+        "email": "reena.d@example.com", 
+        "phone": "9876541220", 
+        "address": "Kolkata", 
+        "department": "Admin" 
+      },
+    { 
+      "id": "46",  
+       "employeeId": "EMP046",  
+        "fullName": "Aakash Bansal", 
+        "email": "aakash.b@example.com", 
+        "phone": "9876541221", 
+        "address": "Meerut", 
+        "department": "IT" 
+      },
+    { 
+      "id": "47",  
+       "employeeId": "EMP047",  
+        "fullName": "Pankaj Tripathi", 
+        "email": "pankaj.t@example.com", 
+        "phone": "9876541222", 
+        "address": "Rewa", 
+        "department": "Finance" 
+      },
+    { 
+        "id": "48",  
+        "employeeId": "EMP048",  
+        "fullName": "Kavita Solanki",
+         "email": "kavita.s@example.com", 
+         "phone": "9876541223", 
+         "address": "Junagadh", 
+         "department": "HR" 
+        },
+    { 
+      "id": "49",  
+       "employeeId": "EMP049",  
+        "fullName": "Ramesh Pawar"    , 
+        "email": "ramesh.p@example.com", 
+        "phone": "9876541224", 
+        "address": "Satara", 
+        "department": "Operations" 
+      },
+    { 
+        "id": "50",  
+       "employeeId": "EMP050",  
+        "fullName": "Anjali Chawla", 
+        "email": "anjali.c@example.com", 
+        "phone": "9876541225", 
+        "address": "Panipat", 
+        "department": "Support" 
+      },
+    { 
+        "id": "51",  
+       "employeeId": "EMP051",  
+        "fullName": "Sameer Ali",     
+        "email": "sameer.ali@example.com", 
+        "phone": "9876541226", 
+        "address": "Bangalore", 
+        "department": "Security" 
+      },
+    { 
+        "id": "52",  
+       "employeeId": "EMP052",  
+        "fullName": "Nandini Roy",     
+        "email": "nandini.roy@example.com", 
+        "phone": "9876541227", 
+        "address": "Kolkata", 
+        "department": "Design" 
+      },
+    { 
+        "id": "53",  
+       "employeeId": "EMP053",  
+        "fullName": "Prakash Nair"    , 
+        "email": "prakash.n@example.com", 
+        "phone": "9876541228", 
+        "address": "Trivandrum", 
+        "department": "IT" 
+      },
+    { 
+      "id": "54",  
+       "employeeId": "EMP054",  
+        "fullName": "Swati Goyal",     
+        "email": "swati.g@example.com", 
+        "phone": "9876541229", 
+        "address": "Hisar", 
+        "department": "HR" 
+      },
+    { 
+        "id": "55",  
+        "employeeId": "EMP055",  
+        "fullName": "Rahul Sinha",     
+        "email": "rahul.s@example.com", 
+        "phone": "9876541230", 
+        "address": "Ranchi", 
+        "department": "Finance" 
+      },
     {
-      "id": "15",
-      "employeeId": "EMP015",
-      "fullName": "Vivek Yadav",
-      "email": "vivek.yadav@example.com",
-      "phone": "9871234560",
-      "address": "Delhi",
-      "department": "Logistics"
-    }
-  ]
+         "id": "56",
+         "employeeId": "EMP056",
+          "fullName": "Irfan Shaikh",   
+          "email": "irfan.s@example.com", 
+          "phone": "9876541231", 
+          "address": "Aurangabad", 
+          "department": "Operations" 
+        },
+    {
+         "id": "57",
+         "employeeId": "EMP057",
+          "fullName": "Priti Kulkarni",  
+          "email": "priti.k@example.com", 
+          "phone": "9876541232", 
+          "address": "Kolhapur", 
+          "department": "Admin" 
+        },
+    {
+         "id": "58",
+        "employeeId": "EMP058",
+         "fullName": "Sanjay Yadav",   
+         "email": "sanjay.y@example.com", 
+         "phone": "9876541233", 
+         "address": "Azamgarh", 
+         "department": "Sales" 
+        },
+    {
+       "id": "59",
+        "employeeId": "EMP059",
+         "fullName": "Monika Batra", 
+         "email": "monika.b@example.com", 
+         "phone": "9876541234", 
+         "address": "Faridabad", 
+         "department": "Support" 
+        },
+    {
+       "id": "60",
+        "employeeId": "EMP060",
+         "fullName": "Vikas Rana", 
+         "email": "vikas.r@example.com", 
+         "phone": "9876541235", 
+         "address": "Dehradun", 
+         "department": "Security" 
+        },
+    {
+        "id": "61",
+        "employeeId": "EMP061",
+         "fullName": "Ashwin Patil", 
+         "email": "ashwin.p@example.com", 
+         "phone": "9876541236", 
+         "address": "Dhule", 
+         "department": "IT" 
+        },
+    {
+       "id": "62",
+        "employeeId": "EMP062",
+         "fullName": "Rekha Menon", 
+         "email": "rekha.m@example.com", 
+         "phone": "9876541237", 
+         "address": "Alappuzha", 
+         "department": "HR" 
+},
+    {
+       "id": "63",
+        "employeeId": "EMP063",
+         "fullName": "Tarun Kapoor", 
+         "email": "tarun.k@example.com", 
+         "phone": "9876541238", 
+         "address": "Delhi", 
+         "department": "Finance" 
+        },
+    {
+       "id": "64",
+        "employeeId": "EMP064",
+         "fullName": "Bhavesh Patel", 
+         "email": "bhavesh.p@example.com", 
+         "phone": "9876541239", 
+         "address": "Mehsana", 
+         "department": "IT" 
+        },
+    {
+       "id": "65",
+        "employeeId": "EMP065",
+         "fullName": "Shruti Agarwal", 
+         "email": "shruti.a@example.com", 
+         "phone": "9876541240", 
+         "address": "Agra", 
+         "department": "Design" 
+        },
+    {
+         "id": "66",
+        "employeeId": "EMP066",
+         "fullName": "Naveen Kumar", 
+         "email": "naveen.k@example.com", 
+         "phone": "9876541241", 
+         "address": "Rohtak", 
+         "department": "Operations" 
+        },
+    {
+       "id": "67",
+        "employeeId": "EMP067",
+         "fullName": "Chirag Doshi", 
+         "email": "chirag.d@example.com", 
+         "phone": "9876541242", 
+         "address": "Valsad", 
+         "department": "Sales" 
+        },
+    {
+         "id": "68",
+        "employeeId": "EMP068",
+         "fullName": "Ananya Bose", 
+         "email": "ananya.b@example.com", 
+         "phone": "9876541243", 
+         "address": "Howrah", 
+         "department": "HR" 
+        },
+    {
+       "id": "69",
+        "employeeId": "EMP069",
+         "fullName": "Rohit Kuldeep", 
+         "email": "rohit.k@example.com", 
+         "phone": "9876541244", 
+         "address": "Bikaner", 
+         "department": "Security" 
+},
+    {
+        "id": "70",
+        "employeeId": "EMP070",
+         "fullName": "Snehal Patil", 
+         "email": "snehal.p@example.com", 
+         "phone": "9876541245", 
+         "address": "Jalgaon", 
+         "department": "Support" 
+        },
+    {
+       "id": "71",
+        "employeeId": "EMP071",
+         "fullName": "Ajay Thakur", 
+         "email": "ajay.t@example.com", 
+         "phone": "9876541246", 
+         "address": "Shimla", 
+         "department": "Admin" 
+        },
+    {
+       "id": "72",
+        "employeeId": "EMP072",
+         "fullName": "Pallavi Deshmukh", 
+         "email": "pallavi.d@example.com", 
+         "phone": "9876541247", 
+         "address": "Akola", 
+         "department": "Finance" 
+},
+    {
+       "id": "73",
+        "employeeId": "EMP073",
+         "fullName": "Siddharth Jain", 
+         "email": "siddharth.j@example.com", 
+         "phone": "9876541248", 
+         "address": "Ratlam", 
+         "department": "IT" 
+},
+    {
+       "id": "74",
+        "employeeId": "EMP074",
+         "fullName": "Keshav Mishra", 
+         "email": "keshav.m@example.com", 
+         "phone": "9876541249", 
+         "address": "Satna", 
+         "department": "Operations" 
+        },
+    {
+       "id": "75",
+        "employeeId": "EMP075",
+         "fullName": "Neetu Singh", 
+         "email": "neetu.s@example.com", 
+         "phone": "9876541250", 
+         "address": "Ballia", 
+         "department": "HR" 
+        },
+    {
+       "id": "76",
+        "employeeId": "EMP076",
+         "fullName": "Abhishek Pandya", 
+         "email": "abhishek.p@example.com", 
+         "phone": "9876541251", 
+         "address": "Porbandar", 
+         "department": "IT" 
+        },
+    {
+       "id": "77",
+        "employeeId": "EMP077",
+         "fullName": "Rupal Shah", 
+         "email": "rupal.s@example.com", 
+         "phone": "9876541252", 
+         "address": "Palanpur", 
+         "department": "Design" 
+        },
+    {
+       "id": "78",
+        "employeeId": "EMP078",
+         "fullName": "Mahesh Patidar", 
+         "email": "mahesh.p@example.com", 
+         "phone": "9876541253", "address": "Mandsaur", 
+         "department": "Sales" 
+        },
+    {
+       "id": "79",
+        "employeeId": "EMP079",
+         "fullName": "Payal Arora", 
+         "email": "payal.a@example.com", 
+         "phone": "9876541254", 
+         "address": "Ambala", 
+         "department": "Support" 
+},
+    {
+       "id": "80",
+        "employeeId": "EMP080",
+         "fullName": "Rajat Saxena", 
+         "email": "rajat.s@example.com", 
+         "phone": "9876541255", 
+         "address": "Bareilly", 
+         "department": "Security" 
+},
+    {
+       "id": "81",
+        "employeeId": "EMP081",
+         "fullName": "Gaurav Mishra", 
+         "email": "gaurav.m@example.com", 
+         "phone": "9876541256", 
+         "address": "Rewari", 
+         "department": "Admin" 
+},
+    {
+       "id": "82",
+        "employeeId": "EMP082",
+         "fullName": "Shreya Kulkarni", 
+         "email": "shreya.k@example.com", 
+         "phone": "9876541257", 
+         "address": "Solapur", 
+         "department": "Finance" 
+},
+    {
+       "id": "83",
+        "employeeId": "EMP083",
+         "fullName": "Anmol Sethi", 
+         "email": "anmol.s@example.com", 
+         "phone": "9876541258", 
+         "address": "Sirsa", 
+         "department": "IT" 
+},
+    {
+       "id": "84",
+        "employeeId": "EMP084",
+         "fullName": "Tanya Malhotra", 
+         "email": "tanya.m@example.com", 
+         "phone": "9876541259", 
+         "address": "Karnal", 
+         "department": "HR" 
+        
+},
+    {
+       "id": "85",
+        "employeeId": "EMP085",
+         "fullName": "Devraj Solanki", 
+         "email": "devraj.s@example.com", 
+         "phone": "9876541260", 
+         "address": "Godhra", 
+         "department": "Operations" 
+},
+    {
+       "id": "86",
+        "employeeId": "EMP086",
+         "fullName": "Harleen Kaur", 
+         "email": "harleen.k@example.com", 
+         "phone": "9876541261", 
+         "address": "Mohali", 
+         "department": "Support" 
+},
+    {
+       "id": "87",
+        "employeeId": "EMP087",
+         "fullName": "Nitin Pawar", 
+         "email": "nitin.p@example.com", 
+         "phone": "9876541262", 
+         "address": "Sangli", 
+         "department": "Security" 
+},
+    {
+       "id": "88",
+        "employeeId": "EMP088",
+         "fullName": "Komal Choudhary", 
+         "email": "komal.c@example.com", 
+         "phone": "9876541263", 
+         "address": "Sikar", 
+         "department": "Design"
+ },
+    {
+       "id": "89",
+        "employeeId": "EMP089",
+         "fullName": "Saurabh Tiwari", 
+         "email": "saurabh.t@example.com", 
+         "phone": "9876541264", 
+         "address": "Faizabad", 
+         "department": "IT" 
+},
+    {
+       "id": "90",
+        "employeeId": "EMP090",
+         "fullName": "Rina Fernandes", 
+         "email": "rina.f@example.com", 
+         "phone": "9876541265", 
+         "address": "Margao", 
+         "department": "Admin" 
+},
+    {
+       "id": "91",
+        "employeeId": "EMP091",
+         "fullName": "Akhil Menon", 
+         "email": "akhil.m@example.com", 
+         "phone": "9876541266", 
+         "address": "Thrissur", 
+         "department": "Finance" 
+},
+    {
+       "id": "92",
+        "employeeId": "EMP092",
+         "fullName": "Seema Rawat", 
+         "email": "seema.r@example.com", 
+         "phone": "9876541267", 
+         "address": "Haldwani", 
+         "department": "HR" 
+        },
+    {
+       "id": "93",
+        "employeeId": "EMP093",
+         "fullName": "Vishal Chauhan", 
+         "email": "vishal.c@example.com", 
+         "phone": "9876541268", 
+         "address": "Haridwar", 
+         "department": "Security"
+ },
+    {
+       "id": "94",
+        "employeeId": "EMP094",
+         "fullName": "Ritika Nagpal", 
+         "email": "ritika.n@example.com", 
+         "phone": "9876541269", 
+         "address": "Yamunanagar", 
+         "department": "Support" 
+},
+    {
+       "id": "95",
+        "employeeId": "EMP095",
+         "fullName": "Lakshya Bhatia", 
+         "email": "lakshya.b@example.com", 
+         "phone": "9876541270", 
+         "address": "Roorkee", 
+         "department": "IT"
+},
+    {
+       "id": "96",
+        "employeeId": "EMP096",
+         "fullName": "Puneet Arora", 
+         "email": "puneet.a@example.com", 
+         "phone": "9876541271", 
+         "address": "Panvel", 
+         "department": "Operations" 
+        },
+    {
+       "id": "97",
+        "employeeId": "EMP097",
+         "fullName": "Mehul Dave", 
+         "email": "mehul.d@example.com", 
+         "phone": "9876541272", 
+         "address": "Patan", 
+         "department": "Finance" 
+        },
+    {
+       "id": "98",
+        "employeeId": "EMP098",
+         "fullName": "Shivani Rathod", 
+         "email": "shivani.r@example.com", 
+         "phone": "9876541273", 
+         "address": "Amreli", 
+         "department": "Design" 
+        },
+    {
+       "id": "99",
+        "employeeId": "EMP099",
+         "fullName": "Rohit Solanki", 
+         "email": "rohit.s@example.com", 
+         "phone": "9876541274", 
+         "address": "Botad", 
+         "department": "Sales" 
+        },
+    { 
+    "id": "100", 
+    "employeeId": "EMP100", 
+    "fullName": "Nirali Bhatt", 
+    "email": "nirali.b@example.com", 
+    "phone": "9876541275", 
+    "address": "Morbi", 
+    "department": "HR" 
+  }
+]
 }
